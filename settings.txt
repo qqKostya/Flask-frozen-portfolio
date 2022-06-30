@@ -1,0 +1,18 @@
+{"site_url":"https://qqKostya.github.io/",
+"site_title": "Константин Казаков: начинающий Python разработчик и автор контента",
+"description": "Константин Казаков - портфолио, резюме и блог Python разработчика",
+"keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
+"name": "Константин Казаков",
+"tag1":"Разработчик",
+"tag2":"на Django, Flask",
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect3":"Портфолио",
+"sect4":"Блог",
+"sect5":"Контакты",
+"telegram":"https://t.me/kazakovqq",
+"instagram":"https://instagram.com/qostja_kazakov?r=nametag",
+"vk":"https://vk.com/mat74",
+"email":"leap74rus@gmail.com",
+"city":"Санкт-Петербург"
+}
